@@ -45,3 +45,6 @@ public class JspController {
 </html>
 ```
 
+## 5. 확인 
+### 브라우저에서 localhost:8080/index 접속후 페이지 확인 
+
